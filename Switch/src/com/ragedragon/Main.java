@@ -44,6 +44,8 @@ public class Main
             case 'E':
                 System.out.println("Value was: E");
                 break;
+            case 'F':
+                System.out.println("Value was: F");
              default:
                  System.out.println("Was not A,B,C,D or E");
                  System.out.println("Actually it was :" +switchValueChar);
