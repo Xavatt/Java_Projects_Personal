@@ -26,8 +26,6 @@ public class Main
             System.out.println("10,000 at "+ i +" % interest = "+String.format("%.2f",calculateInterest(10000,i)));
         }
 
-
-
     }
 
     public static double calculateInterest(double amount, double interestRate)
