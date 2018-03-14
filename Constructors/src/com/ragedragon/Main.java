@@ -26,5 +26,7 @@ public class Main
         System.out.println("\n");
         xavierAccount.deposit(51.0);
         xavierAccount.withdrawal(100.0);
+
+        BankAccount georgeAccount = new BankAccount("George","53182689","george@gmail.com");
     }
 }

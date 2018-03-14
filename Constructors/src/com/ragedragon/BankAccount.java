@@ -17,6 +17,11 @@ public class BankAccount
         this.email = email;
     }
 
+    public BankAccount(String customerName, String phoneNumber, String email)
+    {
+        this("9999", 100.55,customerName,phoneNumber,email);
+    }
+
     // Function to control the deposit of the balance of the account.
     public void deposit(double depositAmount)
     {
