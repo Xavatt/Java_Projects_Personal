@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/ragedragon/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="681">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1545" />
-    <option name="y" value="-16" />
+    <option name="x" value="-1176" />
+    <option name="y" value="59" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -194,7 +194,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/ragedragon/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="681">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding />
         </state>
       </provider>
