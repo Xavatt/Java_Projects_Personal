@@ -10,5 +10,8 @@ public class Main
 
         porsche.setModel("911");
         System.out.println("Model is: "+ porsche.getModel());
+
+        sonic.setModel("9134");
+        System.out.println("Model is: "+ porsche.getModel());
     }
 }
