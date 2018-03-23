@@ -13,7 +13,8 @@ public class Hello
         int mt = mfn + msn + mtn;
 
         System.out.println("Hello, Xavatt!");
-        System.out.println("Prueba de Git con Atom")
+        System.out.println("Prueba de Git con Atom");
+        System.out.println("Prueba de Git con Atom 2");
         System.out.println("Numero: "+mt);
     }
 }
